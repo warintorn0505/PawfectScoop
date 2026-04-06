@@ -1,0 +1,813 @@
+fileFormatVersion: 2
+guid: f79687840de4d4be187129655b15548f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7199140713618140628
+    second: sprinkle 1_0
+  - first:
+      213: -7446836111071072024
+    second: sprinkle 1_1
+  - first:
+      213: 1153607254382214667
+    second: sprinkle 1_2
+  - first:
+      213: 4714139556364441786
+    second: sprinkle 1_3
+  - first:
+      213: 2643388320674092042
+    second: sprinkle 1_4
+  - first:
+      213: 64676101431101781
+    second: sprinkle 1_5
+  - first:
+      213: 1292489601107262918
+    second: sprinkle 1_6
+  - first:
+      213: 6760968187969469350
+    second: sprinkle 1_7
+  - first:
+      213: 8482644043121320501
+    second: sprinkle 1_8
+  - first:
+      213: -3468673147796946148
+    second: sprinkle 1_9
+  - first:
+      213: -5578748977586033991
+    second: sprinkle 1_10
+  - first:
+      213: -549330260523462681
+    second: sprinkle 1_11
+  - first:
+      213: 3306796211155779664
+    second: sprinkle 1_12
+  - first:
+      213: 4333943784274454555
+    second: sprinkle 1_13
+  - first:
+      213: -7783204014718927423
+    second: sprinkle 1_14
+  - first:
+      213: -7283717763724928348
+    second: sprinkle 1_15
+  - first:
+      213: -5400782679010502234
+    second: sprinkle 1_16
+  - first:
+      213: -1034270573237603121
+    second: sprinkle 1_17
+  - first:
+      213: -2414490153254965803
+    second: sprinkle 1_18
+  - first:
+      213: 1771250755127472257
+    second: sprinkle 1_19
+  - first:
+      213: 3759684591038809562
+    second: sprinkle 1_20
+  - first:
+      213: 1197432332938539520
+    second: sprinkle 1_21
+  - first:
+      213: -4530710561273322415
+    second: sprinkle 1_22
+  - first:
+      213: 6820678625227459614
+    second: sprinkle 1_23
+  - first:
+      213: -7907975556655305407
+    second: sprinkle 1_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprinkle 1_0
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 919
+        width: 414
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dde24b165c78e360800000000000000
+      internalID: 7199140713618140628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkle 1_1
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 902
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0be03130687a890800000000000000
+      internalID: -7446836111071072024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkle 1_2
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 904
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ef3cf8faf620010800000000000000
+      internalID: 1153607254382214667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkle 1_3
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 922
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab858be23fcfb6140800000000000000
+      internalID: 4714139556364441786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkle 1_4
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 894
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0412312ca33fa420800000000000000
+      internalID: 2643388320674092042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkle 1_5
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 861
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55902435296c5e000800000000000000
+      internalID: 64676101431101781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkle 1_6
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 889
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd72edb178dfe110800000000000000
+      internalID: 1292489601107262918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkle 1_7
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 847
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abf2adeeb8c3dd50800000000000000
+      internalID: 6760968187969469350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkle 1_8
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 877
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532645270d768b570800000000000000
+      internalID: 8482644043121320501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkle 1_9
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 848
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1380af562cccdfc0800000000000000
+      internalID: -3468673147796946148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkle 1_10
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 793
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba29e3cc5d4492b0800000000000000
+      internalID: -5578748977586033991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkle 1_11
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 817
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef402dd9036068f0800000000000000
+      internalID: -549330260523462681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkle 1_12
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 837
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0504c8642a914ed20800000000000000
+      internalID: 3306796211155779664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkle 1_13
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 838
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18e03ad8e2452c30800000000000000
+      internalID: 4333943784274454555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkle 1_14
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 835
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdb8409f218cf390800000000000000
+      internalID: -7783204014718927423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkle 1_15
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 767
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa19f0e8490bea90800000000000000
+      internalID: -7283717763724928348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkle 1_16
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 767
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a91f7c94c09c05b0800000000000000
+      internalID: -5400782679010502234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkle 1_17
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 789
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc47888b46885a1f0800000000000000
+      internalID: -1034270573237603121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkle 1_18
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 796
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd2f858ff10e7ed0800000000000000
+      internalID: -2414490153254965803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkle 1_19
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 768
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180f3836d2fb49810800000000000000
+      internalID: 1771250755127472257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkle 1_20
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 764
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5c06447351d2430800000000000000
+      internalID: 3759684591038809562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkle 1_21
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 730
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0027e5fcc522e9010800000000000000
+      internalID: 1197432332938539520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkle 1_22
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 733
+        width: 65
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154613fcfbeaf11c0800000000000000
+      internalID: -4530710561273322415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkle 1_23
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 718
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c48c7721be7ae50800000000000000
+      internalID: 6820678625227459614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkle 1_24
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 732
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14da615212a314290800000000000000
+      internalID: -7907975556655305407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkle 1_25
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 630
+        width: 460
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2abba761881a4c1fa562d680459b04f
+      internalID: -1036713464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkle 1_26
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 719
+        width: 380
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 12, z: 4, w: 13}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bd0c9ed84df43feb48b29c4ea88601
+      internalID: -450841460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprinkle 1_0: 7199140713618140628
+      sprinkle 1_1: -7446836111071072024
+      sprinkle 1_10: -5578748977586033991
+      sprinkle 1_11: -549330260523462681
+      sprinkle 1_12: 3306796211155779664
+      sprinkle 1_13: 4333943784274454555
+      sprinkle 1_14: -7783204014718927423
+      sprinkle 1_15: -7283717763724928348
+      sprinkle 1_16: -5400782679010502234
+      sprinkle 1_17: -1034270573237603121
+      sprinkle 1_18: -2414490153254965803
+      sprinkle 1_19: 1771250755127472257
+      sprinkle 1_2: 1153607254382214667
+      sprinkle 1_20: 3759684591038809562
+      sprinkle 1_21: 1197432332938539520
+      sprinkle 1_22: -4530710561273322415
+      sprinkle 1_23: 6820678625227459614
+      sprinkle 1_24: -7907975556655305407
+      sprinkle 1_25: -1036713464
+      sprinkle 1_26: -450841460
+      sprinkle 1_3: 4714139556364441786
+      sprinkle 1_4: 2643388320674092042
+      sprinkle 1_5: 64676101431101781
+      sprinkle 1_6: 1292489601107262918
+      sprinkle 1_7: 6760968187969469350
+      sprinkle 1_8: 8482644043121320501
+      sprinkle 1_9: -3468673147796946148
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
