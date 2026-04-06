@@ -1,6 +1,6 @@
 Member:
-Pavarisa Vorachun
-Yanisa Khramsaeng
+Pavarisa Vorachun,
+Yanisa Khramsaeng,
 Warintorn Thapanakulsak
 
 WebGL Link:
