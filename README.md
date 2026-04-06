@@ -1,5 +1,3 @@
-## Pawfect Scoop – Final Project
-
 ### Members
 - Pavarisa Vorachun  
 - Yanisa Khramsaeng  
